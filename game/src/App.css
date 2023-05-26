@@ -1,0 +1,26 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+h1{
+  text-align: center;
+}
+.board-row{
+  margin: 0;
+  position: absolute;
+   padding: 0;
+   right: 40%;  
+   
+}
+.square {
+  margin-left: auto; 
+  margin-right: auto;
+  margin: 15px;
+  color:black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display:inline;
+  font-size: 16px;
+
+}
